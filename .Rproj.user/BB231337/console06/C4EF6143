@@ -155,4 +155,64 @@ $git remote add [C[Kgit remote -v
 origin	https://github.com/likelet/CircRNA_colon_recurrent_prediction.git (fetch)
 origin	https://github.com/likelet/CircRNA_colon_recurrent_prediction.git (push)
 ]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:56:57[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
-$[K$[K$
+$[K$[K$git remote rm origin
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:58:35[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$ls[K[Kgit remote rm origin-v[K
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:58:38[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$gt[Kit ad [Kd[K[K[Kremov[Kte add origin  https://github.com/likelet/CircRNA_colon_recurrent_prediction.git 
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:58:54[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$gita[K pull master [K[K[K[K[K[K[Korigin master 
+From https://github.com/likelet/CircRNA_colon_recurrent_prediction
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+fatal: refusing to merge unrelated histories
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:59:10[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git push 
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:59:28[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$p[Kgit push origin 
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:59:33[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git push origin master 
+To https://github.com/likelet/CircRNA_colon_recurrent_prediction.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/likelet/CircRNA_colon_recurrent_prediction.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:59:39[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git push[K[Kll
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:59:50[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git pull orgin[K[K[Kigin master 
+From https://github.com/likelet/CircRNA_colon_recurrent_prediction
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m15:00:03[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git pull origin master --allow-unrelated-histories
+From https://github.com/likelet/CircRNA_colon_recurrent_prediction
+ * branch            master     -> FETCH_HEAD
+Merge made by the 'recursive' strategy.
+ LICENSE | 674 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 674 insertions(+)
+ create mode 100644 LICENSE
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m15:01:05[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git add -A
