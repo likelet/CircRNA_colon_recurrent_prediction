@@ -9,3 +9,66 @@ $git inial [K[K[Kt
 Initialized empty Git repository in /Users/likelet/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction/.git/
 ]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:47:06[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
 $git add -A
+warning: CRLF will be replaced by LF in data/trainingWithCirScore.csv.
+The file will have its original line endings in your working directory.
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:47:10[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$gi[K[Kgit ad [K[K[Kcommit -m ""f"i"r"s"t" "c"o"n"n"[1P"m"m"[1P"[1P"[1P"m"m"i"t" "[1P"
+[master (root-commit) 42ec3da] first commit
+ 42 files changed, 2654 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/BB231337/console06/C4EF6143
+ create mode 100644 .Rproj.user/BB231337/console06/INDEX001
+ create mode 100644 .Rproj.user/BB231337/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/BB231337/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/BB231337/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/BB231337/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/BB231337/rmd-outputs
+ create mode 100644 .Rproj.user/BB231337/saved_source_markers
+ create mode 100644 .Rproj.user/BB231337/sources/prop/5AC96E2D
+ create mode 100644 .Rproj.user/BB231337/sources/prop/60C1195E
+ create mode 100644 .Rproj.user/BB231337/sources/prop/678E286A
+ create mode 100644 .Rproj.user/BB231337/sources/prop/7B52AE64
+ create mode 100644 .Rproj.user/BB231337/sources/prop/7F173ECB
+ create mode 100644 .Rproj.user/BB231337/sources/prop/9F8FB4D8
+ create mode 100644 .Rproj.user/BB231337/sources/prop/A2391CC
+ create mode 100644 .Rproj.user/BB231337/sources/prop/B9F294C8
+ create mode 100644 .Rproj.user/BB231337/sources/prop/C4C67217
+ create mode 100644 .Rproj.user/BB231337/sources/prop/D01B51EE
+ create mode 100644 .Rproj.user/BB231337/sources/prop/EEE4AF7D
+ create mode 100644 .Rproj.user/BB231337/sources/prop/INDEX
+ create mode 100644 .Rproj.user/BB231337/sources/s-5786D3E8/10C153D9-contents
+ create mode 100644 .Rproj.user/BB231337/sources/s-5786D3E8/6081C491-contents
+ create mode 100644 .Rproj.user/BB231337/sources/s-5786D3E8/8D17C8C0
+ create mode 100644 .Rproj.user/BB231337/sources/s-5786D3E8/8D17C8C0-contents
+ create mode 100644 .Rproj.user/BB231337/sources/s-5786D3E8/E4BDEE07-contents
+ create mode 100644 .Rproj.user/BB231337/sources/s-5786D3E8/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 1. LASSObagging analysis and cirScore calculation.R
+ create mode 100644 2. Analysis and plot Code for training internal and external validation.R
+ create mode 100644 3. Stratification Analysis Code.R
+ create mode 100644 4. TimeDependenAUCplot.R
+ create mode 100644 CircRNA_colon_recurrent_prediction.Rproj
+ create mode 100644 Readme.md
+ create mode 100644 analysis_functions.R
+ create mode 100644 data/.DS_Store
+ create mode 100644 data/exvalid_180WithCirScore.csv
+ create mode 100755 data/intvalidWithCirScore.csv
+ create mode 100644 data/trainingData.csv
+ create mode 100644 data/trainingWithCirScore.csv
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:47:26[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$一天[K[Kgit rm[Kemote add https://github.com/likelet/CircRNA_colon_recurrent_prediction.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:49:17[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git [K[K[K[Kgit p[K[K[K[K[K[K$git add -A 
