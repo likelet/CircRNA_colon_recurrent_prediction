@@ -72,3 +72,87 @@ usage: git remote add [<options>] <name> <url>
 
 ]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:49:17[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
 $git [K[K[K[Kgit p[K[K[K[K[K[K$git add -A 
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:50:13[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git commit -m ""u"p"d"a"t"e" "
+[master ef7ec64] update
+ 5 files changed, 140 insertions(+), 27 deletions(-)
+ create mode 100644 .Rproj.user/BB231337/console06/C4EF6143.env
+ delete mode 100644 .Rproj.user/BB231337/sources/s-5786D3E8/8D17C8C0
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:50:20[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git ad [K[K[K[K[Kt co[K[Kpush[K[K[K[Kpull
+fatal: No remote repository specified.  Please, specify either a URL or a
+remote name from which new revisions should be fetched.
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:53:06[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git pullcommit -m "update "[C[C[C[C[Cpull[K master orign[Kin
+fatal: 'master' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:53:17[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git pull master origin[C[C[C[C[C[C[C[C[C[Kcommit -m "update "[C[C[C[C[C[12Padd -A [C[C[C[C[Cremote add https://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[Ccommit -m "first commit"[K[C[C[C[C[Cremote add https://github.com/likelet/CircRNA_colon_recurrent_prediction.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:53:22[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git remote add https://github.com/likelet/CircRNA_colon_recurrent_prediction.gitohttps://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crhttps://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cihttps://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cghttps://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cihttps://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnhttps://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:53:34[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git pull
+warning: no common commits
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)   [Kremote: Counting objects:  66% (2/3)   [Kremote: Counting objects: 100% (3/3)   [Kremote: Counting objects: 100% (3/3), done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+From https://github.com/likelet/CircRNA_colon_recurrent_prediction
+ * [new branch]      master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:53:40[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git pullremote add origin https://github.com/likelet/CircRNA_colon_recurrent_prediction.git[C[C[C[C[Cpull[K master r[Korgin [K[K[K[Kigin 
+fatal: 'master' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:53:56[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git pull master origin [1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[Cmaster
+From https://github.com/likelet/CircRNA_colon_recurrent_prediction
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:54:07[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[?1034h]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:55:56[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git add [K[K[K[Kremoe[Ke[Kte add 
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:56:07[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$git remote add [C[Kgit remote -v
+origin	https://github.com/likelet/CircRNA_colon_recurrent_prediction.git (fetch)
+origin	https://github.com/likelet/CircRNA_colon_recurrent_prediction.git (push)
+]0;~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction]2;zhaoqi-imac:likelet  ~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[33;1mlikelet [35;1m14:56:57[0m@zhaoqi-imac[00m [01;34m~/百度云同步盘/CancerCenter/circoRNA建模/20170920/analysis_R_project/CircRNA_colon_recurrent_prediction[00m
+$[K$[K$
